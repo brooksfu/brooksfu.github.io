@@ -33,9 +33,9 @@ courses:
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
-- {icon: 'github', link: 'https://github.com/LeNPaul'}
+#- {icon: 'github', link: 'https://github.com/LeNPaul'}
 - {icon: 'twitter', link: 'https://twitter.com/brooksfu_neuro'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/zhongzheng-brooks-fu-a5935121/'}
 
 contacts:
-- {name: 'Zhongzheng Fu, Ph.D.', title: 'Assistant Professor', department: 'Neurological Surgery', institution: 'UT Southwestern Medical Center', institution_address: '5303 Harry Hines, Dallas, TX 75390', phone: '(214) 648-3884', email: 'Zhongzheng.Fu@UTSouthwestern.edu', office: 'Sprague Clinical Science Building', image: 'assets/img/sprague.jpeg'}
+- {name: 'Zhongzheng Fu, Ph.D.', title: 'Assistant Professor', department: 'Neurological Surgery', institution: 'UT Southwestern Medical Center', institution_address: '5303 Harry Hines Blvd., Dallas, TX 75390', phone: '(214) 648-3884', email: 'Zhongzheng.Fu AT UTSouthwestern.edu', office: 'Sprague Clinical Science Building', image: 'assets/img/sprague.jpeg'}
