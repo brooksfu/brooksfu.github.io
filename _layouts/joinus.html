@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+{{ content }}
+<h3 class="fw-bold border-bottom pb-3 mb-5">We are hiring!</h3>
+{% for job in site.data.settings.joinus %}
+<div class="row g-5 mb-5">
+    <h5>{{ job.name }}</h5>
+    <p>{{ job.discription }}</p>
+  
+</div>
+{% endfor %}

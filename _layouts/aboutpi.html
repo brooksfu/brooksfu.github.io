@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+{{ content }}
+{% for person in site.data.settings.aboutpi %}
+<h3 class="fw-bold border-bottom pb-3 mb-5">Principal Investigator</h3>
+<div class="row g-5 mb-5">
+  <h4>{{ person.name }}</h4>
+  <div class="col-md-6">
+    <p>Dr. Zhongzheng Fu has an extensive background in human neuroscience and behavioral modelling. He obtained his bachelor degree in physics from University of Hong Kong. He obtained the Ph.D. in control and dynamical systems from California Institute of Technology. His work focused on the neuronal basis for performance monitoring in humans. His doctoral work discovered that medial frontal neuron activity generates the error-related negativity, an important biomarker for psychiatric illnesses, such as the obsessive-compulsive disorder, schizophrenia, and attention-deficit/hyperactivity disorder. He proposed a computational model for cognitive control and performance monitoring across species. His postdoctoral work developed a mathematical tool to understand the geometry of high-dimensional neuronal representation. Such representations allow robust generalization of cognitive control across different complex cognitive tasks.</p>
+    <p>In 2023, Dr. Fu joined the Department of Neurological Surgery at UT Southwestern Medical Center as an assistant professor.</p>
+    <p><a href="{{ site.github.url }}/{{ person.url }}">Curriculum Vitae</a></p>
+  </div>
+  <div class="col-md-6">
+    <img src="{{ site.github.url }}/{{ person.image }}" alt="Contact" width="100%">
+  </div>
+</div>
+{% endfor %}
