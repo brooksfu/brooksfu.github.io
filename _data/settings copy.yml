@@ -1,0 +1,41 @@
+menu:
+#- {name: 'people', url: '/people'}
+- {name: 'about the pi', url: '/aboutpi'}
+- {name: 'research', url: '/research'}
+- {name: 'publications', url: '/publications'}
+#- {name: 'courses', url: '/courses'}
+#- {name: 'cv', url: '/cv'}
+- {name: 'join us', url: '/joinus'}
+- {name: 'contact', url: '/contact'}
+
+aboutpi:
+- {name: "Zhongzheng Fu", image: 'assets/img/profile.jpg', url: 'assets/cv/Fu-CV.pdf'}
+
+research:
+- {name: 'Neural mechanisms of cognitive control', image: 'assets/img/research/direction1.png', discription: '<p>Cognitive control emerges from the coordinated activity within cortical and subcortical structures. Our ongoing research aims to delineate the sequential neuronal response profiles associated with cognitive control throughout this network. Our objective is to analyze functional connectivity, shedding light on the relationships between each node within the network. A notable observation is that lapses in focus often lead to errors. Monitoring our errors is a pivotal aspect of cognitive control. Our findings indicate that both the Error-Related Negativity (ERN) and error neuron spiking manifest initially in the pre-supplementary motor area (pre-SMA), followed by the mid-cingulate cortex (MCC). Currently, we are investigating the potential functional connectivity between the pre-SMA and MCC during error processing. </p><p>To characterize human behavior, we employ Bayesian hierarchical models in cognitive tasks. Neuronal activity is then recorded at varying levels, and this activity is aligned with behavior through two methodologies: </p><li>Categorize single neuron by behavioral parameters. </li><li>Infer behavior by population activity of neurons. </li><p>We map these parameters into a high-dimension space and study the how they are geometrically connected. This helps us understand how our error monitoring mechanisms work across many different situations, and how we can refocus on our goals. </p>'}
+- {name: 'Cognitive control in silico', image: 'assets/img/research/direction2.png', discription: '<p>Our brain is a complex system. Despite our best efforts, directly measuring the electrical activity from large numbers of neurons in the human brain is extremely difficult because of limited human samples and data. With the advent of artificial neural networks (ANN), we can now test computational and algorithmic principles on such artificial networks, to understand how the human brain works.</p><p><li> We aim to train ANN to emulate human behaviors in cognitive tasks and analyze the structures of the network and understand how artificial neurons in the network solve the task. The computational insights we gain can inform us about how the real brain solve the same task. </li><li> We aim to perturb the ANN and understand how such it changes the network behavior. This would provide us with a venue to test hypotheses about cognitive control impairment in psychiatric illnesses, such as OCD, ADHD, and schizophrenia. </li></p>'}
+- {name: 'Neuromodulation', image: 'assets/img/research/direction3.png', discription: '<p>Many psychiatric illnesses impair our focus. Can we improve our focus by stimulating our brain? Current stimulation techniques, such as deep brain stimulation to treat motor symptoms of Parkinson’s disease, may lead to the side effect of cognitive control deficit. By understanding the network mechanisms of cognitive control better, we aim to develop sustainable neuromodulation methods to stimulate specific brain areas with well-defined parameters to improve cognitive control. Our efforts may not only reduce side effects of existing brain stimulation technique, but also to provide novel therapeutic approaches to treat cognitive control deficits in psychiatric illnesses. </p>'}
+
+people:
+- {name: 'Principal Investigator', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
+- {name: 'Lab Technician', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
+- {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
+
+joinus:
+- {name: 'Postdoctoral scientists', discription: 'Postdoctoral positions are available in the Zhongzheng Fu lab at Department of Neurological Surgery at UT Southwestern. We study the neural mechanisms of cognitive control using mathematical modeling and human neurophysiology. <br>Applicants who are intellectually curious and passionate about tackling challenging neuroscience problems using a combination of approaches (behavioral modelling, intracranial recordings, neuromodulation, EEG/MEG) are encouraged to apply. Postdoctoral scientist in the lab will conduct cutting-edge research in a protected, interactive, highly collaborative, and well-funded environment, with access to state-of-the-art facilities such as EEG/MEG, intracranial recordings, high-performance computing sources. </br><br>Ph.D. or M.D. degree(s) are required. Applicants who are proficient in Python (MATLAB or R) and with a strong background in statistics, machine learning, deep learning and signal processing are particularly encouraged to apply. </br>'}
+- {name: 'Graduate students', discription: 'We have positions for graduate students. Interested students should apply through Neuroscience Ph.D. program or Biomedical Engineering Ph.D. program at UT Southwestern, and contact us to discuss rotation opportunities.'}
+- {name: 'Undergraduate students/Research assistants', discription: 'We are open to students who have strong coding skills and are interested in the applying quantitative skills to neuroscience data.'}
+
+
+courses:
+- {name: 'Vector Calculus', url: 'vector-calculus'}
+- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
+- {name: 'Stellar Structures', url: 'stellar-structures'}
+
+social:
+#- {icon: 'github', link: 'https://github.com/LeNPaul'}
+- {icon: 'twitter', link: 'https://twitter.com/brooksfu_neuro'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/zhongzheng-brooks-fu-a5935121/'}
+
+contacts:
+- {name: 'Zhongzheng Fu, Ph.D.', title: 'Assistant Professor', department: 'Neurological Surgery', institution: 'UT Southwestern Medical Center', institution_address: '5303 Harry Hines Blvd., Dallas, TX 75390', phone: '(214) 648-3884', email: 'Zhongzheng.Fu AT UTSouthwestern.edu', office: 'Sprague Clinical Science Building', image: 'assets/img/sprague.jpeg'}
