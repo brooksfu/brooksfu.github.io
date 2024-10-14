@@ -1,0 +1,2 @@
+
+I received my B.S. in Pharmaceutical Science and M.S. in Neuropharmacology from Peking University.   I’m a graduate student at UT Southwestern Neuroscience and interested in understanding human cognition through single-neuron data. In my spare time, I like reading, hiking, and watching movies.

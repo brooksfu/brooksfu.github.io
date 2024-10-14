@@ -1,0 +1,2 @@
+
+I received my bachelor’s degree in chemical engineering from Cornell University. Upon graduating, I worked at Lockheed Martin for 2 years learning data processing/analysis and algorithm development. I have always been fascinated by the human brain, and I am interested mapping and understanding brain functions that have been implicated in psychotic disorders. In my free time, I love exercising, spending time with friends, listening to podcasts, and making clothing (mostly sewing and crochet). I also love playing with my Australian shepherd, Dr. Oppenheimer.
