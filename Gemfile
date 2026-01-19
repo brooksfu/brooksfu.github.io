@@ -4,3 +4,7 @@ source "https://rubygems.org"
 gemspec
 
 gem "webrick", "~> 1.8"
+gem "csv"
+gem "base64"
+gem "bigdecimal"
+gem "sass-embedded", "~> 1.75.0"

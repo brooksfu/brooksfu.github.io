@@ -17,14 +17,10 @@ research:
 people:
 - {name: 'Zhongzheng Fu, Ph.D.', title: 'Principal Investigator', department: 'Neurological Surgery', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'zhongzheng.fu AT utsouthwestern.edu', office: 'Science Building 505', image: 'assets/img/profile.jpg', url: 'primary-investigator', mdfile: 'FuZ.md'}
 - {name: 'Ze Geng', title: 'Graduate Student', department: 'Neurological Surgery', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'ze.geng AT utsouthwestern.edu', office: 'Science Building 505', image: 'assets/img/zeG.jpg', url: 'lab-technician', mdfile: 'GengZ.md'}
-- {name: 'Sophia Pouya', title: 'Research Assistant', department: 'Neurological Surgery', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'sophia.pouya AT utsouthwestern.edu', office: 'Science Building 505', image: 'assets/img/sophiaP.jpg', url: 'graduate-student', mdfile: 'SophiaP.md'}
+- {name: 'Trevor Nguyen', title: 'Graduate Student', department: 'Neurological Surgery', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'trevorthai.nguyen AT utsouthwestern.edu', office: 'Science Building 505', image: 'assets/img/nguyenT.jpg', url: 'graduate-student', mdfile: 'NguyenT.md'}
 
 
 
-courses:
-- {name: 'Vector Calculus', url: 'vector-calculus'}
-- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
-- {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
 - {icon: 'twitter', link: 'https://twitter.com/brooksfu_neuro'}

@@ -1,0 +1,2 @@
+
+I am an MD-PhD student in the Neuroscience Graduate Program at UT Southwestern. I studied neuroscience and was in the computer science honors program at the University of Texas at Austin for my undergraduate studies. I am interested in studying the foundations of neural circuitry that inference and decision making. In my free time I like thinking about fabric and textiles, going on walks, and driving places.

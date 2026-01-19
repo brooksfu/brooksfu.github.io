@@ -7,7 +7,7 @@ layout: default
 <h3 class="fw-bold border-bottom pb-3 mb-5">Research</h3>
 {% for project in site.data.settings.research %}
 <div class="row g-5 mb-5">
-    <h4>{{ project.name }}</h4>
+  <h4>{{ project.name }}</h4>
   <div class="col-md-6">
   {% capture content %}
     {% include {{ project.mdfile }} %}
