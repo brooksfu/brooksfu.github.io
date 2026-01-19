@@ -18,3 +18,14 @@ body a {
   object-fit: cover !important; /* crop while preserving aspect ratio */
   object-position: center center !important;
 }
+
+/* Person images: same sizing as contact images */
+.col-md-6 .person-img,
+.person-img {
+  display: block !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  height: 300px !important; /* uniform height for person images */
+  object-fit: contain !important; /* show full image without cropping */
+  object-position: center center !important;
+}
