@@ -1,5 +1,5 @@
 
-Sophia Pouya joined the lab as a Research Assistant. Welcome Sophia! - Oct, 2024
+Trevor Nguyen joined the lab as a MD-PhD student in Neuroscience. He is supported by The O’Donnell Brain Institute’s Neural Scientist Training Program. Welcome Trevor! - Aug, 2025
 
 We are awarded with the 2024 NARSAD Young Investigator Grant from the Brain & Behavior Research Foundation. - Sep, 2024
 
